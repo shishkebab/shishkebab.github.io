@@ -31,3 +31,34 @@ ol, ul{
 	margin-right: auto;
 	margin-left: auto;
 }
+
+.topnav{
+	width: 100%;
+	height: auto;
+	position: static;
+	text-align: center;
+	background-color: #333;
+	overflow: hidden;
+}
+
+.topnav a {
+  /*float: initial;*/
+  color: #f2f2f2;
+  font-family: Lato;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #ddd;
+  color: black;
+}
