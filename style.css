@@ -62,3 +62,14 @@ ol, ul{
   background-color: #ddd;
   color: black;
 }
+
+.footer{
+	width: 100%;
+	height: auto;
+	position: static;
+	text-align: center;
+	font-family: Lato;
+	font-size: 15px;
+	background-color: #333;
+	overflow: hidden;
+}
