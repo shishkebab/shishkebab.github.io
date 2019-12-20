@@ -1,48 +1,37 @@
 body{
 	background-color: #C0C0C0;
-}
-
-h1, h2, h3, h4, h5, h6{
-	color: #000000;
-	font-family: Lato;
-	/*font-size: 25px;*/
-	font-style: normal;
-}
-
-p{
-	color: #000000;
-	font-family: Lato;
-	font-size: 20px;
-	font-style: normal;
-}
-
-ol, ul{
 	color: #000000;
 	font-family: Lato;
 	font-size: 18px;
 	font-style: normal;
+	padding: 0;
+	margin: 0;
 }
 
 .container{
 	max-width: 1200px;
 	width: 100%;
-	padding-right: 15px;
-	padding-left: 15px;
+	/*padding-right: 15px;
+	padding-left: 15px*/;
 	margin-right: auto;
 	margin-left: auto;
 }
 
 .content{
 	float: left;
-	width:80%;
+	/*width:100%;*/
+	margin-left: 10px;
+	margin-right: 10px;
 	position: relative;
 	height: auto;
 }
 
 .topnav{
+	top:0;
 	width: 100%;
 	height: auto;
 	position: static;
+	/*padding: 14px 16px;*/
 	text-align: center;
 	background-color: #333;
 	overflow: hidden;
@@ -51,7 +40,6 @@ ol, ul{
 .topnav a {
   /*float: initial;*/
   color: #f2f2f2;
-  font-family: Lato;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -75,8 +63,7 @@ ol, ul{
 	height: auto;
 	position: static;
 	text-align: center;
-	font-family: Lato;
-	font-size: 15px;
+	font-size: 12px;
 	background-color: #333;
 	overflow: hidden;
 }
