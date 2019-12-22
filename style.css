@@ -2,7 +2,7 @@ body{
 	background-color: #C0C0C0;
 	color: #000000;
 	font-family: Lato;
-	font-size: 18px;
+	font-size: 1.1em;
 	font-style: normal;
 	padding: 0;
 	margin: 0;
@@ -43,7 +43,7 @@ body{
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 20px;
+  font-size: 1.1em;
 }
 
 /* Change the color of links on hover */
@@ -63,7 +63,7 @@ body{
 	height: auto;
 	position: static;
 	text-align: center;
-	font-size: 12px;
+	font-size: 0.83em;
 	background-color: #333;
 	overflow: hidden;
 }
