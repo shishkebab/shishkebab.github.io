@@ -1,12 +1,29 @@
 body{
-	background-color: #C0C0C0;
-	color: #000000;
+	background-color:#242323;
+	color:#ced6db;
 	font-family: Lato;
 	font-size: 1.1em;
 	font-style: normal;
 	padding: 0;
 	margin: 0;
 }
+
+a:link{
+	color:#ffffff;
+}
+
+a:visited{
+	color:#acd1e8;
+}
+
+.header {
+  /*padding: 60px;*/
+  text-align: center;
+  /*background: #1abc9c;*/
+  font-weight: 900;
+  color:#ced6db;
+  /*font-size: 30px;*/
+} 
 
 .container{
 	max-width: 1200px;
@@ -33,7 +50,7 @@ body{
 	position: static;
 	/*padding: 14px 16px;*/
 	text-align: center;
-	background-color: #333;
+	background-color: #787d80;
 	overflow: hidden;
 }
 
@@ -95,7 +112,8 @@ body{
 	height: auto;
 	position: static;
 	text-align: center;
+	color:#000000;
 	font-size: 0.83em;
-	background-color: #333;
+	background-color: #787d80;
 	overflow: hidden;
 }
