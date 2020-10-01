@@ -22,4 +22,4 @@ Under the supervision of -
 Security Analysis in Software-Defined Networks (SDN), Network Fucntion Virtualization (NFV), and Network Slicing.
 
 **Contact**  
-- sukwha-dot-kyung_at_asu-dot-edu
+- sukwha_DOT_kyung_AT_asu_DOT_edu
