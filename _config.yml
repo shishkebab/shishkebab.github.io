@@ -17,14 +17,14 @@ author:
   # github: github_username # github username
   # twitter: twitter_username # twitter username
   # facebook: facebook_username # facebook username
-  # email: your-email@email.com # email adress
+  # email: sukwha.kyung@asu.edu # email adress
   avatar: /assets/img/bonkyuksa.png # change with your own avatar
 
 # URL settings
 url: "https://shishkebab.github.io" #
 baseurl: ""
 permalink: /:title/
-google_analytics: # leave it blank if not wish
+google_analytics: UA-153350885-1 # leave it blank if not wish
 fb_appid:
 
 # Collection setting
