@@ -16,7 +16,7 @@ Under the supervision of -
 <a href="https://adamdoupe.com/" target="_blank" rel="noopener">Dr. Adam Doupé</a>,  
 <a href="https://www.yancomm.net/" target="_blank" rel="noopener">Dr. Yan Shoshitaishvili</a>,  
 <a href="https://www.tiffanybao.com/" target="_blank" rel="noopener">Dr. Tiffany Bao</a>,  
-<a href="https://rev.fish/" target="_blank" rel="noopener">and Dr. Ruoyu (Fish) Wang</a>.
+and <a href="https://rev.fish/" target="_blank" rel="noopener">Dr. Ruoyu (Fish) Wang</a>.
 
 **Research Area**  
 Security Analysis in Software-Defined Networks (SDN), Network Fucntion Virtualization (NFV), and Network Slicing.
