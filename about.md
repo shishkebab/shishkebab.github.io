@@ -1,12 +1,11 @@
 ---
-title: whoami
+title: Hi! I'm Sukwha!
 permalink: /about/
 layout: page
 excerpt: Hello world! I'm a PhD student in computer science. This website is about my projects and gibberish on computer things XD
 comments: false
 ---
 
-**Sukwha Kyung**:  
 PhD student in Computer Science (Cybersecurity)  
 <a href="https://sefcom.asu.edu" target="_blank" rel="noopener">Laboratory of Security Engineering for Future Computing (SEFCOM)</a>  
 Arizona State University
