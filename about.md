@@ -21,7 +21,7 @@ Under the supervision of -
 <a href="https://www.tiffanybao.com/" target="_blank" rel="noopener">Dr. Tiffany Bao</a>,  
 and <a href="https://rev.fish/" target="_blank" rel="noopener">Dr. Ruoyu (Fish) Wang</a>.
 
-**Research Area**  
+**Research Interest**  
 Security Management and Orchestration in Virtualized Networks, 
 Security Analysis in Software-Defined Networks (SDN), Network Fucntion Virtualization (NFV), and Network Slicing.
 
