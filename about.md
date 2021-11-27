@@ -7,12 +7,11 @@ comments: false
 ---
 
 <figure>
-<img src="assets/img/me.jpg" alt="me">
+<img src="/assets/img/me.jpg" alt="me">
 </figure>
 
 I am a PhD student in Computer Science (Cybersecurity) at
-<a href="https://sefcom.asu.edu" target="_blank" rel="noopener">Laboratory of Security Engineering for Future Computing (SEFCOM)</a> at  
-Arizona State University
+<a href="https://sefcom.asu.edu" target="_blank" rel="noopener">Laboratory of Security Engineering for Future Computing (SEFCOM)</a> at Arizona State University.
 
 Under the supervision of -  
 <a href="http://www.public.asu.edu/~gahn1/" target="_blank" rel="noopener">Dr. Gain-Joon Ahn</a>,  
@@ -22,7 +21,7 @@ Under the supervision of -
 and <a href="https://rev.fish/" target="_blank" rel="noopener">Dr. Ruoyu (Fish) Wang</a>.
 
 **Research Interest**  
-Security Management and Orchestration in Virtualized Networks, 
+Security Management and Orchestration in Virtualized Networks,  
 Security Analysis in Software-Defined Networks (SDN), Network Fucntion Virtualization (NFV), and Network Slicing.
 
 **Contact**  
