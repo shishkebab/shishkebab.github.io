@@ -22,6 +22,7 @@ Under the supervision of -
 and <a href="https://rev.fish/" target="_blank" rel="noopener">Dr. Ruoyu (Fish) Wang</a>.
 
 **Research Area**  
+Security Management and Orchestration in Virtualized Networks, 
 Security Analysis in Software-Defined Networks (SDN), Network Fucntion Virtualization (NFV), and Network Slicing.
 
 **Contact**  
