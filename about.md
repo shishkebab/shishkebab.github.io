@@ -6,8 +6,12 @@ excerpt: Hello world! I'm a PhD student in computer science. This website is abo
 comments: false
 ---
 
-PhD student in Computer Science (Cybersecurity)  
-<a href="https://sefcom.asu.edu" target="_blank" rel="noopener">Laboratory of Security Engineering for Future Computing (SEFCOM)</a>  
+<figure>
+<img src="assets/img/me.jpg" alt="me">
+</figure>
+
+I am a PhD student in Computer Science (Cybersecurity) at
+<a href="https://sefcom.asu.edu" target="_blank" rel="noopener">Laboratory of Security Engineering for Future Computing (SEFCOM)</a> at  
 Arizona State University
 
 Under the supervision of -  
