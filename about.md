@@ -1,5 +1,5 @@
 ---
-title: Hi! I'm Sukwha!
+title: About Me 
 permalink: /about/
 layout: page
 excerpt: Hello world! I'm a PhD student in computer science. This website is about my projects and gibberish on computer things XD
@@ -21,8 +21,8 @@ Under the supervision of -
 and <a href="https://rev.fish/" target="_blank" rel="noopener">Dr. Ruoyu (Fish) Wang</a>.
 
 **Research Interest**  
-Security Management and Orchestration in Virtualized Networks,  
-Security Analysis in Software-Defined Networks (SDN), Network Fucntion Virtualization (NFV), and Network Slicing.
+Security Management, Orchestration, and analysis in Network Softwarization  
+(SDN, NFV, and Network Slicing)
 
 **Contact**  
 - sukwha_DOT_kyung_AT_asu_DOT_edu

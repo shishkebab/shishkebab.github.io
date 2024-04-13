@@ -1,6 +1,9 @@
-I"â<p>PhD student in Computer Science (Cybersecurity)<br />
-<a href="https://sefcom.asu.edu" target="_blank" rel="noopener">Laboratory of Security Engineering for Future Computing (SEFCOM)</a><br />
-Arizona State University</p>
+I"%<figure>
+<img src="/assets/img/me.jpg" alt="me" />
+</figure>
+
+<p>I am a PhD student in Computer Science (Cybersecurity) at
+<a href="https://sefcom.asu.edu" target="_blank" rel="noopener">Laboratory of Security Engineering for Future Computing (SEFCOM)</a> at Arizona State University.</p>
 
 <p>Under the supervision of -<br />
 <a href="http://www.public.asu.edu/~gahn1/" target="_blank" rel="noopener">Dr. Gain-Joon Ahn</a>,<br />
@@ -9,8 +12,9 @@ Arizona State University</p>
 <a href="https://www.tiffanybao.com/" target="_blank" rel="noopener">Dr. Tiffany Bao</a>,<br />
 and <a href="https://rev.fish/" target="_blank" rel="noopener">Dr. Ruoyu (Fish) Wang</a>.</p>
 
-<p><strong>Research Area</strong><br />
-Security Analysis in Software-Defined Networks (SDN), Network Fucntion Virtualization (NFV), and Network Slicing.</p>
+<p><strong>Research Interest</strong><br />
+Security Management, Orchestration, and analysis in Network Softwarization<br />
+(SDN, NFV, and Network Slicing)</p>
 
 <p><strong>Contact</strong></p>
 <ul>

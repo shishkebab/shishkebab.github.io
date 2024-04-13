@@ -1,3 +1,3 @@
 # shishkebab.github.io
 
-my personal website powered by jekyll and klisé theme.
+My personal blog made with jekyll and klisé theme.
