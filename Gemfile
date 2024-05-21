@@ -23,7 +23,7 @@ group :jekyll_plugins do
   gem 'jekyll-compose', '~> 0.12.0'
   gem 'jekyll-postfiles', '~> 3.1'
   gem "addressable", ">= 2.8.0"
-  gem "rexml", ">= 3.2.5"
+  gem "rexml", ">= 3.2.7"
   gem "kramdown", ">= 2.3.1"
 end
 
