@@ -291,6 +291,14 @@
       }
     }
   }
+  a.footer_icon {
+    display: inline-flex;
+    align-items: center;
+    vertical-align: middle;
+    &:hover {
+      opacity: 1;
+    }
+  }
 
   .footer_copyright {
     font-size: $small-font-size - 1;

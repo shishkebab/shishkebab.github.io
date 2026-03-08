@@ -22,15 +22,12 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap', '~> 1.4'
   gem 'jekyll-compose', '~> 0.12.0'
   gem 'jekyll-postfiles', '~> 3.1'
-  gem "addressable", ">= 2.8.0"
-  gem "rexml", ">= 3.2.7"
-  gem "kramdown", ">= 2.3.1"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
-# gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Performance-booster for watching directories on Windows
-# gem "wdm", "~> 0.1.0" if Gem.win_platform?
+gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
-gem "webrick", "~> 1.8"
+gem "webrick", "~> 1.7"

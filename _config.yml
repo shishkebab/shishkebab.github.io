@@ -1,30 +1,31 @@
 # Site settings
 title: Sukwha Kyung # site title
 description: >- # site description
-  Sukwha's Blog.
+  Sukwha's Blog
 lang: en-US # default lang
-# timezone: Asia/Jakarta # set your timezone
-# image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-# repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
+timezone: US/Arizona # set your timezone
+image: # This image used for Open Graph more info https://ogp.me/
+repo: https://github.com/shishkebab # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
   name: Sukwha Kyung # author name
   bio: >- # tell to the world
-    Ph.D. Student in Computer Science (Cybersecurity) at Arizona State University.
-  # username: username # general username
-  # github: github_username # github username
+    Hi, I'm Sukwha.
+  username: shishkebab # general username
+  github: shishkebab # github username
+  linkedin: sukwha # linkedin username
   twitter: sukwha_kyung # twitter username
-  # facebook: facebook_username # facebook username
+  facebook:  # facebook username
   email: sukwha.kyung@asu.edu # email adress
   avatar: /assets/img/me.jpg # change with your own avatar
 
 # URL settings
 url: "https://shishkebab.github.io" #
-baseurl: ""
+baseurl:
 permalink: /:title/
-google_analytics: UA-153350885-1 # leave it blank if not wish
+google_analytics: # leave it blank if not wish
 fb_appid:
 
 # Collection setting

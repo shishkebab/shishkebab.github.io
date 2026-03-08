@@ -1,24 +1,15 @@
 ---
-title: About Me 
+title: About Me
 permalink: /about/
 layout: page
-excerpt: Hello world! I'm a PhD student in computer science. This website is about my projects and gibberish on computer things XD
+excerpt: whoami
 comments: false
 ---
 
-I am a PhD student in Computer Science (Cybersecurity) at
-<a href="https://sefcom.asu.edu" target="_blank" rel="noopener">Laboratory of Security Engineering for Future Computing (SEFCOM)</a> at Arizona State University.
+Hi, I'm Sukwha.
 
-Under the supervision of -  
-<a href="http://www.public.asu.edu/~gahn1/" target="_blank" rel="noopener">Dr. Gain-Joon Ahn</a>,  
-<a href="https://adamdoupe.com/" target="_blank" rel="noopener">Dr. Adam Doupé</a>,  
-<a href="https://www.yancomm.net/" target="_blank" rel="noopener">Dr. Yan Shoshitaishvili</a>,  
-<a href="https://www.tiffanybao.com/" target="_blank" rel="noopener">Dr. Tiffany Bao</a>,  
-and <a href="https://rev.fish/" target="_blank" rel="noopener">Dr. Ruoyu (Fish) Wang</a>.
+**Research Interest**
+Security of Softwarized Network (SDN, NFV) and Next-Generation Networks (5G/6G/Satellite Communications)
 
-**Research Interest**  
-Security Management, Orchestration, and analysis in Network Softwarization  
-(SDN, NFV, and Network Slicing)
-
-**Contact**  
-- sukwha_DOT_kyung_AT_asu_DOT_edu
+**Contact**
+- {{ site.author.email }}

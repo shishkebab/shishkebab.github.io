@@ -1,1 +1,12 @@
-_drafts/
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+_drafts
+klise-*.gem
+Gemfile.lock
+CHANGELOG.md
+README.md
+CONTRIBUTING.md
+CODE_OF_CONDUCT.md
+thanks.md
