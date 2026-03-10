@@ -2,6 +2,8 @@
 layout: post
 title: Setting UERANSIM to connect to DN through Open5GS
 date: 2026-03-08 23:26:20 -0700
+modified: 2026-03-10 12:22:15 -0700
+description: A note on how to set up 5G CN using Open5GS and a remote RAN with UERANSIM.
 tag: 
     - 5G
 ---
@@ -133,4 +135,4 @@ We can make sure by running commands like ping through the _uesimtun0_ interfact
 $ ping -I uesimtun0 8.8.8.8
 ```
 
-I plan to post to bring COTS device on aire to test real wireless communication, not just the simulation.
+I plan to post to bring COTS device on air to test real wireless communication, not just the simulation.
