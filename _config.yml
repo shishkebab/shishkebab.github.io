@@ -25,7 +25,7 @@ author:
 url: "https://shishkebab.github.io" #
 baseurl:
 permalink: /:title/
-google_analytics: # leave it blank if not wish
+google_analytics: G-GZBE0MMZYC
 fb_appid:
 
 # Collection setting
