@@ -54,6 +54,9 @@ layout: compress
             <span itemprop="author" itemscope itemtype="https://schema.org/Person">
               <span itemprop="name">{{ site.author.name }}</span>
             </span>
+            {% if page.modified %}
+            <small class="post-updated-at">Updated on {{ page.modified | date: "%m-%d-%Y" }}</small>
+            {% endif %}
             <time hidden datetime="{{ page.modified | date_to_xmlschema }}" itemprop="dateModified">
               {{ page.date | date: "%b %d, %Y" }}
             </time>
@@ -80,10 +83,7 @@ layout: compress
 
     </main>
 
-    {% if page.modified %}
-      <small class="post-updated-at">updated_at {{page.modified | date: "%d-%m-%Y"}}</small>
-    {% endif %}
-    {% if page.next or page.previous %}
+{% if page.next or page.previous %}
       {% include navigation.html %}
     {% endif %}
 
