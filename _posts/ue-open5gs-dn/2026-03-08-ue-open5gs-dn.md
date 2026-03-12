@@ -16,7 +16,7 @@ This post is a note on how to set up a 5G CN using Open5GS and UERANSIM for RAN 
 as illustrated in Figure 1 below.
 
 <figure id="sba">
-  <img src="./setup.png" alt="Open5GS and UERANSIM setup" />
+  <img src="/ue-open5gs-dn/setup.png" alt="Open5GS and UERANSIM setup" />
   <figcaption>Figure 1. Open5GS and UERANSIM setup</figcaption>
 </figure>
 
