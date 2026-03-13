@@ -7,10 +7,12 @@ description: A note on how to set up 5G CN using Open5GS and a remote RAN with U
 tag: 
     - 5G
 ---
-
-**Update Status:**
+<!-- 
+**Update History:**
 - Mar 10, 2026: Fixed typos
 - Mar 12, 2026: Added 5G SBA diagram  
+  
+--- -->
 
 This post is a note on how to set up a 5G CN using Open5GS and UERANSIM for RAN on two separate hosts. The goal is pretty simple: establish a connection between UE and DN through UPF (i.e., UE &rarr; gNodeB &rarr; UPF &rarr; DN)
 as illustrated in Figure 1 below.
