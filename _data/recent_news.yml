@@ -1,0 +1,8 @@
+# - date: 2026-03-12
+#   title: "Recent News section added to the homepage"
+#   summary: "Homepage updates can now be managed from `_data/recent_news.yml` without creating a full blog post."
+
+# - date: 2026-03-08
+#   title: "Published: UE can access the internet through Open5GS"
+#   summary: "A new write-up covering DNS and data-network access with Open5GS was published."
+#   url: "/ue-open5gs-dn/"

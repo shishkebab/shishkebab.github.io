@@ -2,7 +2,7 @@
 layout: post
 title: Setting UERANSIM to connect to DN through Open5GS
 date: 2026-03-08 23:26:20 -0700
-modified: 2026-03-10 12:22:15 -0700
+modified: 2026-03-12 13:14:35 -0700
 description: A note on how to set up 5G CN using Open5GS and a remote RAN with UERANSIM.
 tag: 
     - 5G

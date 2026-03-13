@@ -3,6 +3,31 @@ layout: default
 home: true
 ---
 
+{%- assign recent_news = site.data.recent_news | default: empty -%}
+{%- if recent_news != empty -%}
+<section class="home-section">
+  <h3 class="posts-item-note" aria-label="Recent News">Recent News</h3>
+  {%- for item in recent_news limit: site.number_of_news -%}
+  <article class="post-item news-item">
+    <span class="post-item-date">{{ item.date | date: "%b %d, %Y" }}</span>
+    <div class="post-item-text">
+      <h4 class="post-item-title">
+        {%- if item.url -%}
+        <a href="{{ item.url }}">{{ item.title | escape }}</a>
+        {%- else -%}
+        {{ item.title | escape }}
+        {%- endif -%}
+      </h4>
+      {%- if item.summary -%}
+      <p class="news-item-summary">{{ item.summary | escape }}</p>
+      {%- endif -%}
+    </div>
+  </article>
+  {%- endfor -%}
+</section>
+{%- endif -%}
+
+<section class="home-section">
 <h3 class="posts-item-note" aria-label="Recent Posts">Recent Posts</h3>
 {%- for post in site.posts limit: site.number_of_posts -%}
 <article class="post-item">
@@ -12,3 +37,4 @@ home: true
   </h4>
 </article>
 {%- endfor -%}
+</section>

@@ -216,6 +216,10 @@
 }
 
 // Content
+.home-section + .home-section {
+  margin-top: 2.2rem;
+}
+
 .posts-item-note {
   font-size: $base-font-size;
   font-weight: 700;
@@ -262,6 +266,17 @@
       }
     }
   }
+
+  .post-item-text {
+    flex: 1;
+  }
+}
+
+.news-item-summary {
+  margin: 4px 0 0;
+  font-size: $small-font-size;
+  line-height: 1.6;
+  opacity: 0.85;
 }
 
 // Footer
