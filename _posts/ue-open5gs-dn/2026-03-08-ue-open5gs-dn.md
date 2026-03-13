@@ -147,4 +147,5 @@ We can make sure by running commands like ping through the _uesimtun0_ interfact
 $ ping -I uesimtun0 8.8.8.8
 ```
 
-I plan to post to bring COTS device on air to test real wireless communication, not just the simulation.
+Congrats! We have set up our own private 5G network!
+Next, I plan to post another note about bringing COTS device on air to test real wireless communication, not just the simulation.
