@@ -94,6 +94,19 @@
       outline: none;
     }
 
+    &.menu-icon-link {
+      display: inline-flex;
+      align-items: center;
+      vertical-align: middle;
+      line-height: 1;
+      padding-left: 6px;
+      padding-right: 6px;
+
+      svg {
+        display: block;
+      }
+    }
+
     @include media-query($on-mobile) {
       opacity: 0.8;
     }
