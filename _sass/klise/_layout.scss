@@ -188,6 +188,15 @@
         margin: 0;
         padding: 2px 0;
       }
+
+      &.menu-icon-link {
+        display: block;
+        padding: 5px 0;
+
+        svg {
+          margin: 0 auto;
+        }
+      }
     }
   }
 }
